@@ -1,0 +1,23 @@
+{
+  "name": "rentals",
+  "displayName": "rentals",
+  "GOOGLE_API_KEY": "",
+  "WEB_CLIENT_ID": "",
+  "IOS_CLIENT_ID": "",
+  "OCD_API_KEY": "",
+  "events": {
+    "SAFE": "SAFE",
+    "UNSAFE": "UNSAFE"
+  },
+  "warnings": [
+    "Warning: componentWillReceiveProps has been renamed",
+    "Warning: componentWillReceiveProps is deprecated",
+    "Warning: componentWillUpdate has been renamed",
+    "Warning: componentWillUpdate is deprecated",
+    "Warning: componentWillMount has been renamed",
+    "Warning: componentWillMount is deprecated",
+    "Sending 'onAnimatedValueUpdate' with no listeners registered.",
+    "Animated: `useNativeDriver` was not specified.",
+    "Warning: Failed prop type: Invalid prop"
+  ]
+}
